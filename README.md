@@ -2,8 +2,8 @@
 
 <h1 align="left">João Vitor Bacelar</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin%20João%20Vitor%20Bacelar-BEE663?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/joão-vitor-bacelar-a2a7a1273/)](https://www.linkedin.com/in/joão-vitor-bacelar-a2a7a1273/)
-[![Mail Badge](https://img.shields.io/badge/-vitorrbacelar@gmail.com-BEE663?style=flat&logo=Gmail&logoColor=black&link=mailto:vitorrbacelar@gmail.com)](mailto:vitorrbacelar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin%20João%20Vitor%20Bacelar-298DCC?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/joão-vitor-bacelar-a2a7a1273/)](https://www.linkedin.com/in/joão-vitor-bacelar-a2a7a1273/)
+[![Mail Badge](https://img.shields.io/badge/-vitorrbacelar@gmail.com-298DCC?style=flat&logo=Gmail&logoColor=black&link=mailto:vitorrbacelar@gmail.com)](mailto:vitorrbacelar@gmail.com)
 
 
 
