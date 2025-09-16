@@ -30,9 +30,3 @@ Always trying to be better
 </div>
 <br/>
 -->
-
-## My github stats
-<div>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorrbacelar&count_private=true&theme=github_dark&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrbacelar&layout=compact&theme=github_dark&include_all_commits=true" />
-</div>
